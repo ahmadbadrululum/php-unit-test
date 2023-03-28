@@ -9,4 +9,12 @@ class SampleTest extends TestCase
         // assertrue check if the value is true
         $this->assertTrue(true);
     }
+
+    // dodblock example
+    // sample login
+    /** @test */
+    public function sampleLogin()
+    {
+        $this->assertTrue(true);
+    }
 }
