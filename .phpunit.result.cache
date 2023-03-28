@@ -1,1 +1,1 @@
-{"version":1,"defects":{"SampleTest::testSample":3},"times":{"SampleTest::testSample":0.003,"SampleTest::sampleLogin":0}}
+{"version":1,"defects":{"SampleTest::testSample":3,"SampleTest::checkPokemon":3},"times":{"SampleTest::testSample":0.002,"SampleTest::sampleLogin":0,"SampleTest::checkPokemon":0.001}}
